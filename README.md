@@ -1,7 +1,5 @@
 # dotfiles
 
----
-
 Config files for some of tools that I use. These are my own personal configs.
 Use at your own risk !!.
 
