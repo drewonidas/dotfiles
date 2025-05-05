@@ -1,4 +1,4 @@
-link_all: link_nvim link_tmux
+link_all: link_neovim link_tmux
 
 link_neovim:
 	ln -sf "${HOME}/dotfiles/neovim" "${HOME}/.config/nvim"
